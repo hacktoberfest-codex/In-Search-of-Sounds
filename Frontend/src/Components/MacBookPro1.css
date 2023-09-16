@@ -1,0 +1,325 @@
+.professional-plan-child {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: var(--color-white);
+    box-shadow: 0 4px 4px rgba(152, 149, 149, 0.25);
+}
+
+.it-is-a,
+.professional {
+    position: absolute;
+    left: 6.86%;
+}
+
+.professional {
+    top: 4.96%;
+    font-size: var(--font-size-11xl);
+    color: var(--color1);
+}
+
+.it-is-a {
+    width: 86.29%;
+    top: 34.87%;
+    color: var(--color3);
+    display: inline-block;
+}
+
+.service-fill-1-icon {
+    position: absolute;
+    height: 4.25%;
+    width: 6.86%;
+    top: 5.84%;
+    right: 10.86%;
+    bottom: 89.91%;
+    left: 82.29%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+
+.professional-plan-item {
+    position: absolute;
+    height: 12.57%;
+    width: 100%;
+    top: 87.43%;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: #ea0774;
+}
+
+.get-started-today {
+    position: absolute;
+    height: 3.72%;
+    width: 35.71%;
+    top: 91.86%;
+    left: 32.29%;
+    display: inline-block;
+    color: var(--color4);
+}
+
+.b {
+    position: absolute;
+    top: 18.41%;
+    left: 28%;
+    font-size: var(--font-size-31xl);
+}
+
+.ellipse-div,
+.professional-plan-child1,
+.professional-plan-inner {
+    position: absolute;
+    height: 1.77%;
+    width: 2.86%;
+    top: 57.52%;
+    right: 78%;
+    bottom: 40.71%;
+    left: 19.14%;
+    border-radius: 50%;
+    background-color: var(--color);
+}
+
+.ellipse-div,
+.professional-plan-child1 {
+    top: 67.08%;
+    bottom: 31.15%;
+}
+
+.professional-plan-child1 {
+    top: 76.64%;
+    bottom: 21.59%;
+}
+
+.it-is-a1,
+.it-is-a2,
+.it-is-a3 {
+    position: absolute;
+    top: 56.81%;
+    left: 27.14%;
+}
+
+.it-is-a2,
+.it-is-a3 {
+    top: 66.19%;
+}
+
+.it-is-a3 {
+    top: 75.58%;
+}
+
+.professional-plan {
+    position: absolute;
+    top: 387px;
+    left: 539px;
+    width: 350px;
+    height: 565px;
+}
+
+.business,
+.it-is-a4 {
+    position: absolute;
+    left: 6.86%;
+}
+
+.business {
+    top: 5.05%;
+    font-size: var(--font-size-11xl);
+    color: var(--color1);
+}
+
+.it-is-a4 {
+    width: 86.29%;
+    top: 35.02%;
+    color: var(--color3);
+    display: inline-block;
+}
+
+.business-plan-item {
+    position: absolute;
+    height: 12.64%;
+    width: 100%;
+    top: 87.36%;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: var(--color2);
+}
+
+.get-started-today1 {
+    position: absolute;
+    height: 3.79%;
+    width: 35.71%;
+    top: 91.88%;
+    left: 32.29%;
+    display: inline-block;
+    color: var(--color1);
+}
+
+.b1 {
+    position: absolute;
+    top: 17.87%;
+    left: 28.29%;
+    font-size: var(--font-size-31xl);
+}
+
+.business-plan-child1,
+.business-plan-child2,
+.business-plan-inner {
+    position: absolute;
+    height: 1.81%;
+    width: 2.86%;
+    top: 55.96%;
+    right: 77.43%;
+    bottom: 42.24%;
+    left: 19.71%;
+    border-radius: 50%;
+    background-color: var(--color);
+}
+
+.business-plan-child1,
+.business-plan-child2 {
+    top: 65.7%;
+    bottom: 32.49%;
+}
+
+.business-plan-child2 {
+    top: 75.45%;
+    bottom: 22.74%;
+}
+
+.it-is-a5,
+.it-is-a6,
+.it-is-a7 {
+    position: absolute;
+    top: 55.23%;
+    left: 27.43%;
+}
+
+.it-is-a6,
+.it-is-a7 {
+    top: 64.8%;
+}
+
+.it-is-a7 {
+    top: 74.37%;
+}
+
+.building-4-line-1-icon {
+    position: absolute;
+    height: 4.33%;
+    width: 6.86%;
+    top: 5.96%;
+    right: 8.86%;
+    bottom: 89.71%;
+    left: 84.29%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+
+.business-plan {
+    top: 393px;
+    left: 924px;
+    width: 350px;
+    height: 554px;
+}
+
+.b2,
+.business-plan,
+.hobby {
+    position: absolute;
+}
+
+.hobby {
+    top: 5.05%;
+    left: 7.14%;
+    font-size: var(--font-size-11xl);
+    color: var(--color1);
+}
+
+.b2 {
+    top: 17.87%;
+    left: 28%;
+    font-size: var(--font-size-31xl);
+}
+
+.hobby-plan-child1,
+.hobby-plan-child2,
+.hobby-plan-inner {
+    position: absolute;
+    height: 1.81%;
+    width: 2.86%;
+    top: 57.22%;
+    right: 80.29%;
+    bottom: 40.97%;
+    left: 16.86%;
+    border-radius: 50%;
+    background-color: var(--color);
+}
+
+.hobby-plan-child1,
+.hobby-plan-child2 {
+    top: 66.97%;
+    bottom: 31.23%;
+}
+
+.hobby-plan-child2 {
+    top: 76.71%;
+    bottom: 21.48%;
+}
+
+.home-smile-line-1-icon {
+    position: absolute;
+    height: 4.33%;
+    width: 6.86%;
+    top: 6.5%;
+    right: 8.86%;
+    bottom: 89.17%;
+    left: 84.29%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+
+.it-is-a9 {
+    position: absolute;
+    top: 56.68%;
+    left: 26.86%;
+}
+
+.hobby-plan,
+.it-is-a10,
+.it-is-a11 {
+    position: absolute;
+    top: 66.25%;
+    left: 26.86%;
+}
+
+.hobby-plan,
+.it-is-a11 {
+    top: 75.81%;
+}
+
+.hobby-plan {
+    top: 393px;
+    left: 171px;
+    width: 350px;
+    height: 554px;
+}
+
+.macbook-pro-1 {
+    position: relative;
+    background-color: var(--color4);
+    width: 100%;
+    height: 1026px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-base);
+    color: var(--color-black);
+    font-family: var(--font-roboto);
+}
