@@ -1,4 +1,50 @@
 # Awaz ki khoj me  
+# Speech Therapy Web Application
+
+Welcome to our advanced web application designed to tackle the issue of misarticulation in children through interactive therapy materials in Hindi. This README.md file provides an overview of our solution's key features and functionalities.
+
+## Key Features
+
+### 🎯 Adaptive Assessment
+Our platform utilizes cutting-edge AI and ML techniques to adapt assessments based on a user's previous responses. This personalized approach optimizes the learning experience, ensuring that each user progresses at their own pace.
+
+### 🗣 Speech Sound Identification
+The system accurately identifies specific speech sounds and phonemes that users are misarticulating. This enables targeted therapy, focusing on areas that need improvement.
+
+### 🎮 Gamification
+To make therapy engaging, especially for children, we've incorporated gamification elements. Learning becomes fun as users complete challenges, earn rewards, and track their progress.
+
+### 🔄 Spaced Repetition
+We implement spaced repetition techniques, allowing users to practice speech sounds over longer intervals. This proven method enhances the effectiveness of learning and retention.
+
+### 📊 Visual and Audio Feedback
+Users receive real-time visual and audio feedback during therapy exercises. This feature helps them understand and correct their articulation, making the learning process more interactive and effective.
+
+### 🤖 Integration of AI and ML
+Our platform continuously adapts therapy plans based on user progress, thanks to the integration of AI and ML. This ensures that therapy remains effective and tailored to each user's needs.
+
+## How to Use
+
+1. Sign Up: Create an account to get started.
+2. Assessment: Take the initial assessment to determine your speech sound proficiency.
+3. Therapy Plan: Receive a personalized therapy plan based on your assessment results.
+4. Engage: Complete interactive exercises, receive feedback, and track your progress.
+5. Gamify: Earn rewards and achievements as you make progress in your therapy journey.
+6. Spaced Practice: Practice speech sounds using spaced repetition techniques for lasting improvement.
+## Team
+
+- Sudiksha Sharma
+- Sumit Dash
+- Ujjwal Kumar
+- Om Tanmaya Pati
+- Smriti
+- Chanchal Anand
+
+## Contact Us
+
+If you have any questions or feedback, please reach out to us at [email@example.com].
+
+We hope our web application helps children improve their speech articulation and makes the therapy process enjoyable and effective!
 
 ## Overview
 
@@ -37,8 +83,6 @@ We employ AI and ML to continuously adapt therapy plans based on user progress. 
 ## Getting Started
 
 To access our speech therapy web application, follow these steps:
-
- 
 
 1. Sign up or log in to your account.
 
