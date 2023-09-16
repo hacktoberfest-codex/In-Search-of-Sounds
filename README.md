@@ -42,9 +42,7 @@ Our platform continuously adapts therapy plans based on user progress, thanks to
 
 ## Contact Us
 
-If you have any questions or feedback, please reach out to us at [email@example.com].
-
-We hope our web application helps children improve their speech articulation and makes the therapy process enjoyable and effective!
+ We hope our web application helps children improve their speech articulation and makes the therapy process enjoyable and effective!
 
 ## Overview
 
