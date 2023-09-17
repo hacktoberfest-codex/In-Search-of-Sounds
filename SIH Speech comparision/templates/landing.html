@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>List of Misarticulated Sounds</title>
+    <!-- Include Tailwind CSS (You need to add Tailwind CSS to your project) -->
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.16/dist/tailwind.min.css" rel="stylesheet">
+    <style>
+        /* Add custom styles for the background image */
+        body {
+            background-image: url('https://s3.gomedia.ws/wp-content/uploads/sites/72/2019/09/16233509/speechtherapy2.jpeg'); /* Replace with your image URL */
+            background-size: cover;
+            background-repeat: no-repeat;
+        }
+    </style>
+</head>
+<body class="bg-transparent flex flex-col justify-center items-center min-h-screen">
+    <div class="container mx-auto p-6 bg-opacity-80 shadow-lg rounded-lg w-3/4 bg-white">
+        <h1 class="text-4xl font-bold text-indigo-800 mb-6 font-serif">List of Misarticulated Sounds</h1>
+        <ul class="list-disc pl-6">
+            <!-- Add more misarticulated sounds as needed -->
+            <li class="text-lg text-gray-600">क (ka)</li>
+            <!-- Example: <li class="text-lg text-gray-600">अ (a)</li> -->
+        </ul>
+        <!-- Button -->
+        <button class="bg-blue-500 hover:bg-blue-600 text-white font-bold py-2 px-4 rounded mt-4" id="rewards-button">
+            REWARDS
+        </button>
+        
+        <script>
+            document.getElementById("rewards-button").addEventListener("click", function() {
+                window.location.href = "../whac-a-mole/index.html";
+            });
+        </script>
+        
+    </div>
+</body>
+</html>
